@@ -2,7 +2,7 @@
 <html>
 <head>
   <title>@yield('title','weibo') - Laravel学习系列</title>
-  <link rel="stylesheet" href="{{ mix('css/app.css')}}"/>
+  <link rel="stylesheet" href="{{ mix('css/app.css') }}">
 </head>
 <body>
 
