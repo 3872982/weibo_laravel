@@ -10655,3 +10655,35 @@ nav.navbar.navbar-expand-lg {
   margin-bottom: 20px;
 }
 
+/**
+footer
+ */
+
+footer {
+  margin-top: 50px;
+  padding-top: 10px;
+  border-top: 1px solid #eaeaea;
+  color: #777;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+footer a {
+  color: #555;
+}
+
+footer a:hover {
+  color: orangered;
+}
+
+footer small {
+  float: left;
+}
+
+footer img.brand-icon {
+  width: 17px;
+  height: 17px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
